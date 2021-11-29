@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-compar-izon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
